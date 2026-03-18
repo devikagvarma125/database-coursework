@@ -1,0 +1,154 @@
+product_id,product_category_name,Product Description,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+16ba44d9231d19fc57e0a4188d0ce1cf,furniture_decor,Furniture and home decoration products.,1,303,25,2,17
+0602bc6086443c4e9b9e5ba88119ce08,perfumery,Perfumes and fragrances,1,133,21,12,19
+10575a1b638283f7cc928d01f29416b2,sports_leisure,Sports and leisure equipment and accessories,2,4600,32,37,21
+1fd10191b0bcd5aa4020c0721372510c,baby,"Products related to babies, such as diapers and baby food",2,3200,55,10,40
+fe9dfbe7f974621789683b7b78be2a16,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",3,5300,30,24,38
+94475071013412139f862c0bd7e3bb37,stationery,"Stationery products such as pens, notebooks, and desk accessories",3,317,22,14,22
+282606dd11c6108bfa47f0e4b0918cfc,home_appliances,Household appliances such as washing machines and refrigerators,1,500,55,40,46
+dcecdbaf763f2a027e5b4587ba9ee82b,stationery,"Stationery products such as pens, notebooks, and desk accessories",2,200,24,7,14
+6aa2fc145b174e24db03a714aca32103,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",1,350,30,20,20
+d249f9dc99c68bbd2e4301672e0f97c5,furniture_decor,Furniture and home decoration products.,1,700,40,15,40
+6413f7a28e149a324c4a914000399fb2,cool_stuff,A miscellaneous category for unique and quirky items,1,975,37,31,17
+5e939a93f81b2b628f2c09510001742a,bed_bath_table,"Bedding, bath, and table linens",3,1800,45,15,35
+349ce46a0e2e20054aa9d80c48af8816,construction_tools_lights,Tools and equipment for construction and lighting,1,1300,16,19,16
+8e7ec8bbc0989d1ccbe6971f239eae9a,pet_shop,"Products for pets such as food, toys, and grooming supplies",1,128,17,9,13
+f196248e8b5d060cca414a664ea9a76f,auto,"Automotive parts, accessories, and tools",1,1900,90,14,18
+e9aa3fd3f316b44c85f671552a04fa4a,home_appliances,Household appliances such as washing machines and refrigerators,1,50,17,7,13
+422879e10f46682990de24d770e7f83d,garden_tools,Tools and equipment for gardening and landscaping,2,1550,30,22,30
+5d0b3bded37ffeb1e67b324f3301ccb6,perfumery,Perfumes and fragrances,1,450,30,30,30
+8c292ca193d326152e335d77176746f0,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,200,17,11,15
+45b280868bcc8124d9309f459a42eeaf,sports_leisure,Sports and leisure equipment and accessories,2,6450,20,20,20
+026b77b15418f2a8114dfb0026739be4,sports_leisure,Sports and leisure equipment and accessories,1,378,21,14,14
+9111e84f174a6bef20d95fa5d5f8dde2,bed_bath_table,"Bedding, bath, and table linens",1,1625,43,8,31
+3dd2a17168ec895c781a9191c1e95ad7,computers_accessories,Computers and computer accessories,1,533,22,11,20
+137b399a767859264d48a03aed54440d,pet_shop,"Products for pets such as food, toys, and grooming supplies",1,119,18,12,14
+0609678aec06f28cd8e177550d26e73b,bed_bath_table,"Bedding, bath, and table linens",1,1400,20,30,26
+22f799df8d5495f40f6ed3cc8b18b712,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",4,700,27,9,19
+726e355b119d1f8186283de59fc5b702,luggage_accessories,"Travel bags, suitcases, and luggage accessories",4,1500,41,15,29
+6a1a04054158fe995e1688d8f79605b2,sports_leisure,Sports and leisure equipment and accessories,1,1650,40,45,25
+3e6f2d0265ff6265eb639a8d3027f5a3,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",1,1283,33,22,32
+9bb8ca338e5588c361e34eae02e8fad6,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,431,19,17,15
+d42c1eec0891869c034f031ec9b81ecc,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",1,5900,25,60,25
+1f30aacc69904c0d0bf8d05cb2abef72,bed_bath_table,"Bedding, bath, and table linens",1,1850,40,10,30
+f713c90e84b1bf2e157637d63fe09a68,cool_stuff,A miscellaneous category for unique and quirky items,2,200,16,11,11
+b24af8bca8813bcde4140ff8562f5e47,telephony,Mobile phones and related accessories,6,250,17,4,12
+b6475dae3a2796ed87cabc7b8e8debcf,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",1,250,35,13,19
+735bc5b144baa5f37d59ebcfd20a6310,auto,"Automotive parts, accessories, and tools",4,104,14,10,15
+36908dfc3aabeafc9039dc2365586c0e,sports_leisure,Sports and leisure equipment and accessories,1,400,18,12,15
+50a64d6b01398039142e3e0be6f2fca4,art,Art supplies and decorative items,1,5900,40,10,30
+ce37d2059b251687831f016e8698725b,toys,Children's toys and games,1,275,17,14,12
+1acb18fc869c5489d5f76abcd681165e,sports_leisure,Sports and leisure equipment and accessories,1,1600,30,30,35
+53759a2ecddad2bb87a079a1f1519f73,garden_tools,Tools and equipment for gardening and landscaping,2,1500,30,22,30
+f2bb1681ac26e3993d10ff79cba282d5,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",2,400,23,6,15
+c18ab1f0dc1937464d516ca610408e26,food_drink,Food and drink products,1,150,19,13,17
+4cd6ba4ea3112de8fc238307c4dc6307,bed_bath_table,"Bedding, bath, and table linens",3,1000,35,8,25
+0cf13ac73dbcf6586ba63b89dd1f780a,furniture_decor,Furniture and home decoration products.,5,3700,25,35,35
+2a27bdf5d36c733df107a86e44370254,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",3,425,20,9,18
+a62e25e09e05e6faf31d90c6ec1aa3d1,watches_gifts,watches and gift items,2,1000,53,8,18
+f74353ffeaa55836a3cf603a2dcd855e,small_appliances,Small household appliances such as coffee makers and toasters,4,5908,35,46,35
+014d94f219fbff1166b9cf700eee36b2,watches_gifts,watches and gift items,1,400,18,12,12
+54d9ac713e253fa1fae9c8003b011c2a,cool_stuff,A miscellaneous category for unique and quirky items,8,1867,36,6,36
+3522a64b7bad6fe22cc046584a9d3fb0,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",2,4383,43,17,37
+e339410beae2b9f9987f5a4e0ae007f3,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,300,20,10,20
+9d6c66334a27b9dcf34b71cd371638de,bed_bath_table,"Bedding, bath, and table linens",1,4850,20,30,30
+2948658cb6abc82847412be7201bfc4c,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",5,3500,36,25,21
+51ce083cd2b9078656a94655ab45b8a4,bed_bath_table,"Bedding, bath, and table linens",1,2450,41,8,36
+e0b6956a1860dc425aab39707b0044af,auto,"Automotive parts, accessories, and tools",1,1350,30,5,20
+eab67bf937aaadc19f83383a331d2dd9,office_furniture,Furniture for office use such as desks and chairs,1,10975,53,51,18
+ed0a1bec6300918e25cecb6cdb2a2c0b,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,50,18,12,15
+b1eae565a61935e0011ee7682fef9dc9,perfumery,Perfumes and fragrances,2,267,17,13,17
+1c47e837f2780378d8485d04ab83a45d,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,375,23,18,23
+fb14dbd8b5d4195d70df81f35b593889,electronics,Electronic items,2,365,20,10,20
+11dc4053871ff53ff79fb1fc7e6b160f,sports_leisure,Sports and leisure equipment and accessories,1,1600,100,7,11
+af2d506fb01b724e03591349ad36b67e,baby,"Products related to babies, such as diapers and baby food",2,600,20,13,13
+1a0e58ba2d1b44924d3d7184ae40e575,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",6,600,18,4,12
+e16c02dd52598b26d3402ef8ca15448d,fashion_bags_accessories,Bags and accessories,1,100,16,14,14
+f62ed10e188737a0f5e98e5d7c21c442,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",1,1500,16,24,11
+7c37e152261f0a96f89c364bd971a90b,home_construction,materials for home construction,4,300,100,6,40
+060c17562f97e5bb60bc0dfa4dd5b3f2,computers_accessories,Computers and computer accessories,1,150,18,6,14
+f292ca832e0400809217dc0478a31650,perfumery,Perfumes and fragrances,2,100,18,9,12
+8ad04f842c474ad4cc1414e97265c999,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",5,350,16,16,16
+a1e903cd2d23763ef8b85ec12eb79d9c,sports_leisure,Sports and leisure equipment and accessories,2,200,16,13,12
+054515fd15bc1a2029f10de97ffa9120,sports_leisure,Sports and leisure equipment and accessories,1,150,18,18,18
+f9e5efb845b51d764b06f149eb99fc7f,furniture_decor,Furniture and home decoration products.,4,1350,35,10,35
+c403e106353e1aa40efe783ecb39ed7a,bed_bath_table,"Bedding, bath, and table linens",1,550,40,5,30
+083ffd30820b592e294de7ed668ff975,computers_accessories,Computers and computer accessories,3,300,23,8,19
+72cb4380c5a90c64048cafdf60d31f88,musical_instruments,Musical instruments and accessories,1,500,19,16,16
+586328f570ac0b651d452f1227db4d1c,watches_gifts,watches and gift items,1,119,17,10,13
+31a2f42a87890f87d77daebdfabc182e,toys,Children's toys and games,5,1700,30,35,25
+095cb863f2b04911455ad33f5177062e,books_general_interest,Books on general topics,1,1000,16,24,16
+abbc95531363652998acab718776a759,perfumery,Perfumes and fragrances,1,200,17,6,12
+04d70d184a7c12c93cecd9c0d8b5ad69,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,150,22,3,15
+fda95fe26bc353f8a0cc05c8d109d453,telephony,Mobile phones and related accessories,3,125,19,4,11
+70accfd08e04dffc605f6577d4e852c4,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,350,28,24,11
+6358f5d1f8bea46b44615a9eaad26f81,bed_bath_table,"Bedding, bath, and table linens",1,700,16,10,16
+86ecc269de40ba13205e7beeee12f26f,telephony,Mobile phones and related accessories,4,188,17,6,12
+c7fd13b5e515bffdab855d0812842edb,furniture_decor,Furniture and home decoration products.,2,1350,30,20,20
+aca2eb7d00ea1a7b8ebd4e68314663af,furniture_decor,Furniture and home decoration products.,6,2600,50,10,30
+9111d9c5a15a527389c6ba216623b7b4,computers_accessories,Computers and computer accessories,2,100,37,6,12
+9388fcd19f74f595e79b1a302b930bf7,consoles_games,Gaming consoles and video games,1,600,20,15,20
+e61c78a7343d82c0539d27df0f7dfc31,bed_bath_table,"Bedding, bath, and table linens",1,2700,41,8,36
+c56400aa5823575d5a92a8f98077490a,office_furniture,Furniture for office use such as desks and chairs,1,9150,35,52,35
+eed58af018f022f0dbd193a8e81b9321,sports_leisure,Sports and leisure equipment and accessories,7,250,16,10,11
+276e9ed23a30582d125743aaed57ed22,garden_tools,Tools and equipment for gardening and landscaping,3,250,17,7,13
+fcdb929c70287379ce31deed3f733d72,bed_bath_table,"Bedding, bath, and table linens",1,1625,41,30,33
+04565ebccdd3c4acc43789823458d6a8,auto,"Automotive parts, accessories, and tools",1,400,35,15,25
+8828464e34fc3da3892f568218e14d61,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,3575,21,18,22
+9ddd762ee8a13576a809dc66f22aa2b5,bed_bath_table,"Bedding, bath, and table linens",1,2600,41,8,36
+5fb1e24560c31b0eaa1911d4247187ed,toys,Children's toys and games,3,2600,33,12,26
+e3dd336775af78a83fc27ed85f0f15da,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,300,20,9,15
+fd1976772549ed5b4aed965293122ac8,perfumery,Perfumes and fragrances,1,458,18,18,17
+f343690217692891e7a092d5c1e5eef7,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",2,250,16,16,11
+e85d91619b497e98754390b6198a9818,baby,"Products related to babies, such as diapers and baby food",2,700,24,14,18
+2d7ec74c6f93ad8234f2e29817b2827b,baby,"Products related to babies, such as diapers and baby food",6,1400,40,30,30
+ebfe7a4ca40dd34375e373405a114c32,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",2,417,19,11,18
+78d7edf3fda961dc8ac6999761ba5b05,pet_shop,"Products for pets such as food, toys, and grooming supplies",3,1400,50,20,40
+5eedf4c1aa6ce63c49b7e0c547bf0ad9,furniture_decor,Furniture and home decoration products.,4,14500,40,60,40
+fbce4c4cb307679d89a3bf3d3bb353b9,bed_bath_table,"Bedding, bath, and table linens",1,6550,30,30,30
+94cff684a6f115a32507988ff6541801,construction_tools_construction,Tools and equipment for construction and building,1,300,20,12,25
+614a7083f3c1a64a1829fee6bc60d90d,music,Music CDs and other music-related products,2,100,19,3,11
+de20d07a4cb6565ed32339ba6a9ea541,construction_tools_construction,Tools and equipment for construction and building,1,1100,40,37,35
+078e8db43688ea060cf754e7bd2b92e7,bed_bath_table,"Bedding, bath, and table linens",1,475,65,4,45
+867dda95bbba37fe56fa288449fa122f,bed_bath_table,"Bedding, bath, and table linens",1,600,40,4,30
+25e2023ed83352bde98dc1490d14c3d8,toys,Children's toys and games,1,887,30,22,20
+3dd2a17168ec895c781a9191c1e95ad7,computers_accessories,Computers and computer accessories,1,533,22,11,20
+7787f84dcc43ef95552cd95d2c86f418,watches_gifts,watches and gift items,1,200,16,2,11
+84f5c4f480ad6c9998d6a6860f1a2e41,food_drink,Food and drink products,1,1100,16,15,15
+cf42c8f3dc04e4fe02b18b4176eb8e1f,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,850,20,30,25
+b7605b5b483063d12bd90a772bff9d21,bed_bath_table,"Bedding, bath, and table linens",2,550,40,7,50
+e7cc48a9daff5436f63d3aad9426f28b,telephony,Mobile phones and related accessories,4,700,32,15,21
+44493ebe02de3fd58d529f40fd2944d1,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",5,600,30,6,20
+2ffdf10e724b958c0f7ea69e97d32f64,watches_gifts,watches and gift items,1,263,17,12,13
+167b19e93baccb17916b9a6dd03264e7,electronics,Electronic items,3,220,19,16,17
+8a4505505378c8f5d983f3201e9c25da,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,325,19,20,18
+e6fd80a00ebb1a3e0d58a38555fbbf2c,computers_accessories,Computers and computer accessories,2,500,19,9,16
+701cfdaf6cb0e11a4200ec31fab1997e,furniture_decor,Furniture and home decoration products.,6,1067,34,12,29
+57f2bc497c1a3ebe41ba7a06d78ed159,watches_gifts,watches and gift items,4,250,16,2,20
+10717ff440b2320081989126e858b220,bed_bath_table,"Bedding, bath, and table linens",1,4867,70,16,50
+a38b238734207eeb0388676235cf56ec,watches_gifts,watches and gift items,2,3200,16,2,11
+205ff90a4060e651110a277efa4633fd,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,150,20,10,20
+ea555c5a04b369a1505d5fca42617d7e,computers_accessories,Computers and computer accessories,1,150,16,3,13
+f07dfd51b27ae763526ca43745920b7d,bed_bath_table,"Bedding, bath, and table linens",2,175,23,6,13
+b532349fe46b38fbc7bb3914c1bdae07,furniture_decor,Furniture and home decoration products.,1,850,20,25,20
+96693703af76b26b2d20895a71ea98b4,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,450,86,15,15
+88d79d63d20f4183d9ed1144cff05d8e,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,250,16,15,11
+1cf0c9095608952cb1c65c4789946375,electronics,Electronic items,2,275,28,9,22
+bdc32991fd65235de59b26e8992e9b03,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",3,1475,24,26,26
+ee4329a32508827791e17cd8daeadb6b,construction_tools_construction,Tools and equipment for construction and building,2,650,16,11,11
+9f7b48e2d4e4d7375f71a10791faa1b8,bed_bath_table,"Bedding, bath, and table linens",4,2050,50,10,40
+aca2eb7d00ea1a7b8ebd4e68314663af,furniture_decor,Furniture and home decoration products.,6,2600,50,10,30
+914c9e9af640dd56f48764a225b00f89,office_furniture,Furniture for office use such as desks and chairs,1,7463,56,64,35
+660b5f38348490e8e14f63deb7389bf2,baby,"Products related to babies, such as diapers and baby food",1,990,29,19,25
+16007704980fa90718364a0dd747133e,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",1,1550,27,9,18
+2504bf725d7aa06820b73b85c5ca6653,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",2,1500,32,5,28
+813a30050677eb6996e12eea9ad400bf,health_beauty,"Health and beauty products such as skincare, makeup, and supplements",5,12000,65,30,40
+55782cb82e0efe052da0a3da237da3b2,auto,"Automotive parts, accessories, and tools",3,2450,30,30,30
+0bb7cb61f1957f79dac582ab66ccdc1f,housewares,"Products for home use such as kitchenware, cleaning supplies, and home organization items.",2,553,18,9,15
+c139b099cfb2e693fba282b4cfcb5fe3,garden_tools,Tools and equipment for gardening and landscaping,2,300,16,6,11
+e2a5fbcec3cf55f09968fb1ecbe16638,perfumery,Perfumes and fragrances,1,500,20,20,30
+afd8f74b298294d9a3fb33f93ce6c5e5,auto,"Automotive parts, accessories, and tools",1,200,26,8,14
+22c5ddc22ea8cae84fc9917def682dc6,perfumery,Perfumes and fragrances,3,350,25,15,15
+ea6617ab48bb467d615214e7de71c864,auto,"Automotive parts, accessories, and tools",1,300,20,3,16
+6eb6c5cb7df0f863538b61a47fcce962,perfumery,Perfumes and fragrances,1,500,23,8,15
+d285360f29ac7fd97640bf0baef03de0,watches_gifts,watches and gift items,4,363,18,13,13
