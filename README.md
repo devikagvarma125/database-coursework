@@ -13,7 +13,7 @@ NoSQL (MongoDB): Integrated MongoDB to store unstructured data, specifically cus
 Architecture: Developed a workflow to query across both systems, optimizing the database for both high-speed writes (orders) and analytical reads (reviews).
 
 ### 📊 Analytical Outcome
-The hybrid approach improved system performance by 30% during simulated peak loads. By decoupling reviews from the core transactional engine, the architecture remains scalable and ready for sentiment analysis and advanced retail reporting.
+This project demonstrates the design and implementation of a scalable database architecture for an e-commerce platform using a combination of relational (RDBMS) and NoSQL databases. By applying polyglot persistence, the system effectively manages both structured and unstructured data, ensuring high performance, consistency, and flexibility. Overall, the solution enables efficient data handling, supports business analytics, and improves decision-making for real-world e-commerce operations.
 
 ### 🚀 Tech Stack
 MS SQL Server | MongoDB | DBDL | SQL | JSON
